@@ -1,0 +1,14 @@
+{
+  "name": "Facial-Recognition-Smart-Mirror",
+  "version": "1.0.0",
+  "description": "Facial recognition",
+  "keywords": [
+    "smart mirror",
+    "Facial recognition",
+    "module"
+  ],
+  "author": "Inderpartap Cheema",
+  "dependencies": {
+    "python-shell": "^0.4.0"
+  }
+}

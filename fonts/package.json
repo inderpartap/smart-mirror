@@ -1,0 +1,7 @@
+{
+  "name": "smartmirror-fonts",
+  "description": "Package for fonts use by SmartMirror Core.",
+  "dependencies": {
+    "roboto-fontface": "^0.8.0"
+  }
+}
